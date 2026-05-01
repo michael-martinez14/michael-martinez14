@@ -48,17 +48,6 @@ I'm a final-year Systems Engineering student with hands-on experience in multipl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michael-martinez14&show_icons=true&theme=default&hide_border=true" alt="Michael's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-martinez14&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📂 Featured Projects
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Martinez 👋</h1>
 
 <p align="center">
-  🎓 Systems Engineering Student (Final Year) &nbsp;|&nbsp; 💻 Full Stack Developer in Training &nbsp;|&nbsp; 🔐 Cybersecurity Enthusiast |&nbsp; 🌐 Computer Networks
+  🎓 Systems Engineering Student &nbsp;|&nbsp; 💻 Full Stack Developer in Training &nbsp;|&nbsp; 🔐 Cybersecurity Enthusiast |&nbsp; 🌐 Computer Networks
 </p>
 
 ---

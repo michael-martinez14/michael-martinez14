@@ -62,7 +62,56 @@ I'm a final-year Systems Engineering student with hands-on experience in multipl
 
 ## 📂 Featured Projects
 
-> 🚧 Coming soon — stay tuned!
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗃️ Word Count with Hadoop</h3>
+      <p>Distributed word count analysis using Hadoop in local mode, applied to Yelp dataset.</p>
+      <a href="https://github.com/michael-martinez14/hadoop-yelp-analysis">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⚙️ MiniC Compiler</h3>
+      <p>Full compiler for a subset of the C language, built as a final project for Compilers II.</p>
+      <a href="https://github.com/michael-martinez14/ProyectoFinalCompiladoresII">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Manager</h3>
+      <p>A database management system built from scratch, covering core DB engine concepts.</p>
+      <a href="https://github.com/michael-martinez14/ProyectoBD2_Database_Manager">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🦀 Rust Compiler</h3>
+      <p>Compiler project targeting a subset of the Rust programming language.</p>
+      <a href="https://github.com/michael-martinez14/compiladorRust">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎬 Movie App</h3>
+      <p>Final UX project — a movie application focused on user experience and interface design.</p>
+      <a href="https://github.com/michael-martinez14/Proyecto_Final_UX">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📁 File System</h3>
+      <p>Implementation of a file system as part of the Data Structures II course.</p>
+      <a href="https://github.com/michael-martinez14/Proyecto_EstruII">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a final-year Systems Engineering student with hands-on experience in multiple programming languages, databases, and modern frameworks. I enjoy building software solutions and continuously expanding my technical knowledge.
 
@@ -17,7 +17,7 @@ I'm a final-year Systems Engineering student with hands-on experience in multipl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,7 +49,7 @@ I'm a final-year Systems Engineering student with hands-on experience in multipl
 ---
 
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -104,6 +104,6 @@ I'm a final-year Systems Engineering student with hands-on experience in multipl
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelmartinez2083@gmail.com)
